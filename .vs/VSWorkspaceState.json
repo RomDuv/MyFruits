@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyFruits",
+    "\\MyFruits\\Areas",
+    "\\MyFruits\\Areas\\Fruits",
+    "\\MyFruits\\Areas\\Fruits\\Pages",
+    "\\MyFruits\\Pages",
+    "\\MyFruits\\Pages\\Shared",
+    "\\MyFruits\\Pages\\Shared\\EditorTemplates",
+    "\\MyFruits\\wwwroot",
+    "\\MyFruits\\wwwroot\\Fruits",
+    "\\MyFruits\\wwwroot\\Fruits\\images"
+  ],
+  "SelectedNode": "\\MyFruits\\wwwroot\\Fruits\\images\\poire.jpg",
+  "PreviewInSolutionExplorer": true
+}
